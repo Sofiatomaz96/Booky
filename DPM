@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Booky</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Booky</h1>
+    <nav>
+      <a href="#features">Features</a>
+      <a href="#pricing">Pricing</a>
+      <a href="#info">Relevant information</a>
+      <a href="#signin">Sign In</a>
+    </nav>
+  </header>
+  <section id="features">
+    <h2>AI‑Powered Entertainment</h2>
+    <p>Experience the future of entertainment booking…</p>
+  </section>
+  <!-- continue para "Pricing" e "Relevant information" -->
+  <footer>© 2025 Booky. All rights reserved.</footer>
+  <script src="script.js"></script>
+</body>
+</html>
+
